@@ -3,3 +3,54 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*classe da riutilizzare*/
+
+
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+   
+
+}
+
+.posizionamento{
+    width: 70%;
+   margin: 0 auto;
+    
+    
+}
+
+
+
+/*css per l'header*/
+
+.dimensione{
+  padding: 1rem 0;
+}
+
+ul{
+    list-style: none;
+    height: 100%;
+}
+
+header ul>li{
+    padding: 0 0.5rem;
+    
+    
+}
+
+header{
+    background-color:rgb(255, 105, 0) ;
+    color: white;
+   
+}
+
+.dimensione>img{
+   height: 10%;
+   width: 10%;
+ 
+}

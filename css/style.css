@@ -119,3 +119,14 @@ position: absolute;
 }
 
 
+footer{
+    background-color: black;
+    color:white;
+    margin-top: 3rem;
+    padding: 3rem 0;
+}
+
+.flex-footer{
+    display: flex;
+    justify-content: space-between;
+}
